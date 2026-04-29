@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+*.zip
+*.csv
+*.mp4
+*.pth
+*.h5
